@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP1AppWeb_DoKhoa</string>
+    <string name="no_account">Pas de compte? <b>Inscrivez-vous!</b></string>
+    <string name="yes_account">Déja un compte? <b>Connectez-vous!</b></string>
+</resources>
